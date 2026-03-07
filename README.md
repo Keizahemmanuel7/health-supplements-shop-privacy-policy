@@ -8,6 +8,23 @@ This Privacy Policy explains how information is collected, used, and disclosed w
 By using this Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
 ---
+## Permissions Used
+
+This application only requests the minimum permissions required for normal functionality.
+
+Permissions That May Be Used
+• Internet Access – Allows the app to connect to the internet to load product pages, store content, and external links.
+
+Permissions Not Used
+• Camera
+• Microphone
+• Contacts
+• Location
+• SMS
+• Call Logs
+• Device Storage
+
+This application does not access or collect personal information through device permissions.
 
 ## Information Collection and Use
 
