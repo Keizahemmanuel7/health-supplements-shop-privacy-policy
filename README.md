@@ -1,139 +1,149 @@
-# Privacy Policy
-**Health Supplements Shop**
+Privacy Policy
+Health Supplements Shop
 
-Health Supplements Shop is a free mobile application developed by **Kasanvu Emmanuel**. This Service is provided at no cost and is intended for use as is.
+Effective Date: 14 March 2026
 
-This Privacy Policy explains how information is collected, used, and disclosed when users access or use the Service.
+Health Supplements Shop is a free application developed by Kasanvu Emmanuel. This Service is provided at no cost and is intended for use “as is.”
 
-By using this Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+This page is used to inform users regarding our policies with the collection, use, and disclosure of personal information for anyone who decides to use the Service. By using this Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
----
-## Permissions Used
+IMPORTANT HEALTH DISCLAIMER
+Health Supplements Shop is designed to provide access to health supplements and related product information for general informational and shopping purposes only.
 
-This application only requests the minimum permissions required for normal functionality.
+- The app does NOT provide medical advice, diagnosis, or treatment.
+- Any health-related information available in the app is for informational purposes only and should NOT be relied upon as a substitute for professional medical advice.
+- Always consult a qualified healthcare provider before using any supplement, especially if you have a medical condition, are pregnant, nursing, or taking medication.
+- We do NOT guarantee the effectiveness, safety, or results of any products listed in the app.
+- Use of products is entirely at your own risk.
 
-Permissions That May Be Used
-• Internet Access – Allows the app to connect to the internet to load product pages, store content, and external links.
+1. Information Collection and Use
 
-Permissions Not Used
-• Camera
-• Microphone
-• Contacts
-• Location
-• SMS
-• Call Logs
-• Device Storage
+We collect only the minimum amount of personal information necessary to provide our services effectively.
 
-This application does not access or collect personal information through device permissions.
+Information We Collect:
 
-## Information Collection and Use
+- Name: Used to personalize your experience and process orders
+- Email Address: Used for order confirmations, updates, and customer support
+- Shipping Address: Required for delivery of purchased products
+- Phone Number (Optional): Used for delivery coordination or support communication
 
-The Health Supplements Shop app does **not directly collect, store, or process personal information** on its own servers.
+Health Data:
+We do NOT collect, store, or process sensitive health or medical data such as medical records, diagnoses, or biometric identifiers.
 
-The app may provide access to **third-party websites, platforms, or services** through embedded WebView technology. When interacting with these third-party services, users may be required to provide personal information such as:
+2. Information We Do NOT Collect
 
-- Email address  
-- Account or login details  
-- Order or purchase information  
-- Payment or billing details  
-- Delivery or shipping information  
+We respect your privacy and do not collect unnecessary or sensitive personal data, including:
 
-Any information provided is handled according to the privacy policies of the respective third-party service providers.
+- Medical or health records
+- Bank account PINs or full financial credentials
+- National ID or government-issued identification numbers
+- Contacts, SMS, or call logs
+- Camera or microphone data
+- Precise location data
 
----
+3. App Permissions
 
-## Third-Party Services
+Health Supplements Shop only uses permissions that are strictly necessary:
 
-The Service may rely on or link to third-party services that may collect information used to identify you. These services may include, but are not limited to:
+Permissions Used:
 
-- Google Play Services  
-- Payment processing platforms  
-- Analytics and performance monitoring services  
-- External e-commerce or fulfillment platforms  
+- Internet Access: To load products, process orders, and connect to services
+- Network State Access: To ensure proper connectivity and performance
 
-Each third-party service has its own Privacy Policy governing how collected information is used.
+Permissions NOT Used:
 
----
+- Camera access
+- Microphone access
+- Location tracking
+- Contacts access
+- SMS or call log access
+- Background data tracking
 
-## Log Data
+We do not request or access sensitive device permissions.
 
-In the event of an error while using the Service, diagnostic information (Log Data) may be collected through third-party services. This Log Data may include:
+4. How Your Information Is Used
 
-- Device Internet Protocol (IP) address  
-- Device model and operating system version  
-- App configuration  
-- Date and time of usage  
-- Other technical or diagnostic information  
+The information collected is used solely for:
 
-This data is used solely to improve app performance and reliability.
+- Processing and fulfilling orders
+- Providing customer support
+- Sending important updates related to orders or services
+- Improving app performance and user experience
 
----
+We do NOT:
 
-## Cookies
+- Sell your personal data
+- Share your data for advertising purposes without consent
 
-This Service does not use cookies directly.
+5. Third-Party Services
 
-However, third-party websites or services accessed through the app may use cookies or similar technologies to enhance their functionality and user experience. Users can manage cookie preferences through their browser or device settings.
+The app may use trusted third-party services that may collect limited user data, including:
 
----
+- Google Play Services
+- Payment processors (e.g., PayPal, Stripe, Flutterwave)
+- Analytics providers
+- External e-commerce platforms
 
-## Service Providers
+These third parties operate under their own privacy policies, and we encourage users to review them.
 
-Third-party companies or individuals may be engaged to:
+6. Data Storage and Security
 
-- Facilitate the Service  
-- Process orders and payments  
-- Provide analytics or technical support  
-- Deliver products or services  
+We implement appropriate technical and organizational measures to protect your data:
 
-These third parties are granted access only to information necessary to perform their services and are obligated not to use or disclose it for any other purpose.
+- Secure servers and encryption technologies
+- Limited access to authorized personnel only
+- Protection against unauthorized access or disclosure
 
----
+However, no method of electronic transmission or storage is completely secure.
 
-## Security
+7. Log Data
 
-We value your trust and strive to use commercially acceptable measures to protect information. However, no method of transmission over the internet or electronic storage is completely secure, and absolute security cannot be guaranteed.
+In case of an error in the app, we may collect Log Data through third-party tools. This may include:
 
----
+- IP address
+- Device name and operating system version
+- App configuration
+- Date and time of use
+- Diagnostic information
 
-## Links to External Sites
+This data is used strictly for troubleshooting and service improvement.
 
-The Service may contain links to external websites or services that are not operated by us. If you click on a third-party link, you will be directed to that site.
+8. Cookies
 
-We strongly encourage you to review the Privacy Policies of these external websites. We have no control over and assume no responsibility for the content, privacy practices, or policies of any third-party sites or services.
+This app does not use cookies directly. However, third-party services or websites accessed through the app may use cookies. Users can manage cookie preferences through their browser settings.
 
----
+9. Links to Other Sites
 
-## Health Disclaimer
+This Service may contain links to third-party websites. We are not responsible for the content, privacy policies, or practices of these external sites.
 
-Health Supplements Shop provides access to third-party products and information related to dietary supplements. The app does not provide medical advice, diagnosis, or treatment.
+10. Children’s Privacy
 
-Users are encouraged to consult qualified healthcare professionals before using any health or dietary supplement.
+Health Supplements Shop does NOT target children under the age of 13.
 
----
+- We do not knowingly collect personal data from children under 13.
+- If we discover that such data has been provided, it will be deleted immediately.
+- Parents and guardians are encouraged to supervise children’s internet usage.
 
-## Children’s Privacy
+This app is intended for users aged 13 and above only.
 
-This Service is **not intended for use by children under the age of 13**. We do not knowingly collect personally identifiable information from children under 13.
+11. Compliance with Google Play Policies
 
-If you believe that a child has provided personal information, please contact us so appropriate action can be taken.
+Health Supplements Shop complies with all applicable Google Play Developer Policies, including:
 
----
+- User Data Policy
+- Health Apps Policy
+- Permissions Policy
 
-## Changes to This Privacy Policy
+We ensure transparency, minimal data collection, and responsible handling of all user information.
 
-This Privacy Policy may be updated from time to time. Any changes will be posted on this page, and users are advised to review this Privacy Policy periodically.
+12. Changes to This Privacy Policy
 
----
+We may update this Privacy Policy from time to time. Users are advised to review this page periodically for any changes. Continued use of the Service constitutes acceptance of updates.
 
-## Effective Date
+13. Contact Us
 
-This Privacy Policy is effective as of **11 January 2026**.
+If you have any questions or concerns regarding this Privacy Policy or your data, please contact us:
 
----
-
-## Contact Us
-
-If you have any questions or suggestions regarding this Privacy Policy, please contact us at:
-
-📧 **keizahemmanuel4@gmail.com**
+Email: keizahemmanuel4@gmail.com
+Business Name: Kasanvu Emmanuel
+Location: Wakiso, Uganda
