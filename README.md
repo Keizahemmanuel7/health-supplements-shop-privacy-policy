@@ -118,13 +118,13 @@ This Service may contain links to third-party websites. We are not responsible f
 
 10. Children’s Privacy
 
-Health Supplements Shop does NOT target children under the age of 13.
+Health Supplements Shop does NOT target children under the age of 18.
 
-- We do not knowingly collect personal data from children under 13.
+- We do not knowingly collect personal data from children under 18.
 - If we discover that such data has been provided, it will be deleted immediately.
 - Parents and guardians are encouraged to supervise children’s internet usage.
 
-This app is intended for users aged 13 and above only.
+This app is intended for users aged 18 and above only.
 
 11. Compliance with Google Play Policies
 
