@@ -4,9 +4,9 @@ Health Supplements Shop
 
 Effective Date: 31 May 2026
 
-Health Supplements Shop is a mobile application developed by Kasanvu Emmanuel. The app provides users with access to health supplements, wellness products, nutritional products, and related offers available through the Digistore24 platform.
+Health Supplements Shop is a mobile application developed by Kasanvu Emmanuel. The app provides users with access to health supplements, nutritional products, wellness products, dietary support products, educational materials, and related offers available through the Digistore24 platform.
 
-The Health Supplements Shop app primarily functions as a gateway that allows users to access products and services offered through Digistore24. Most account registration, login, purchases, payment processing, order fulfillment, and customer account management are provided through the Digistore24 website and its authorized service providers.
+The Health Supplements Shop app primarily functions as a gateway that allows users to access products and services offered through Digistore24. Most account registration, login, purchases, payment processing, order fulfillment, customer account management, and related services are provided through the Digistore24 website and its authorized service providers.
 
 This Privacy Policy explains how information is handled when you use the Health Supplements Shop app and the Digistore24 services accessible through the app.
 
@@ -16,9 +16,9 @@ By accessing or using Health Supplements Shop, you agree to the practices descri
 
 1. HOW THE HEALTH SUPPLEMENTS SHOP APP OPERATES
 
-Health Supplements Shop serves as an interface that connects users to products and services offered through Digistore24.
+Health Supplements Shop serves as an interface that connects users to health supplements, wellness products, nutritional products, and related services offered through the Digistore24 platform.
 
-When users create accounts, sign in, place orders, make purchases, submit payment information, or communicate with vendors, these activities are generally processed through Digistore24 and its authorized partners.
+When users create accounts, sign in, browse products, make purchases, submit payment information, communicate with vendors, or access services through the app, these activities are generally processed through Digistore24 and its authorized partners.
 
 While Google Play Data Safety disclosures may indicate that certain information is collected through the app experience, much of this information is collected and processed through Digistore24 when users interact with website features available within the app.
 
@@ -33,7 +33,7 @@ Internet Access (android.permission.INTERNET)
 This permission is required to:
 
 - Load website content
-- Display products and services
+- Display health and wellness products
 - Connect to Digistore24
 - Enable secure communication
 - Process user requests
@@ -68,7 +68,6 @@ However, when users interact with Digistore24 through the app, Digistore24 and i
 - Username
 - Full name
 - Billing information
-- Shipping information (where applicable)
 - Purchase history
 - Transaction information
 - Payment information
@@ -78,6 +77,7 @@ This information may be used for:
 
 - Account registration
 - User authentication
+- Account management
 - Order processing
 - Payment processing
 - Product delivery
@@ -185,7 +185,7 @@ These providers may have access to information necessary to perform their servic
 
 Reasonable administrative, technical, and organizational measures are used by service providers to help protect information transmitted through the app and associated services.
 
-However, no method of electronic transmission or storage can be guaranteed to be completely secure.
+However, no method of electronic transmission, storage, or transmission over the internet can be guaranteed to be completely secure.
 
 Users provide information at their own discretion and risk.
 
@@ -255,19 +255,63 @@ Requests relating to information processed through Digistore24 should be directe
 
 ---
 
-14. CHILDREN'S PRIVACY
+14. HEALTH DISCLAIMER
+
+Health Supplements Shop provides access to health supplements, wellness products, nutritional products, educational materials, and related information available through the Digistore24 platform.
+
+The information, products, descriptions, recommendations, reviews, statements, and content available through the app are provided for informational and educational purposes only.
+
+Health Supplements Shop does not provide medical advice, diagnosis, treatment, healthcare services, emergency services, or professional medical consultations.
+
+Nothing contained within the app should be interpreted as medical advice or used as a substitute for consultation with a qualified healthcare professional.
+
+The products and information accessible through the app are not intended to:
+
+- Diagnose any disease or medical condition
+- Treat any disease or medical condition
+- Cure any disease or medical condition
+- Prevent any disease or medical condition
+- Replace professional medical advice
+- Replace consultation with licensed healthcare professionals
+
+Users should always seek advice from a qualified physician, pharmacist, nutritionist, or other licensed healthcare professional before:
+
+- Starting any supplement program
+- Changing dietary practices
+- Beginning a fitness or wellness regimen
+- Using any health-related product
+- Combining supplements with medications
+- Making decisions regarding medical treatment
+
+Individual results may vary from person to person.
+
+No guarantees are made regarding the effectiveness, suitability, safety, or outcomes of any supplement or wellness product offered through the Digistore24 platform.
+
+If you are pregnant, nursing, taking medication, have allergies, have a pre-existing medical condition, or are receiving medical treatment, you should consult a qualified healthcare professional before using any supplement or wellness product.
+
+In case of a medical emergency, users should immediately contact emergency medical services or a qualified healthcare provider.
+
+Health Supplements Shop and its developer make no representations or warranties regarding medical outcomes resulting from the use of products or information accessed through the app.
+
+Any reliance on information, recommendations, or products accessed through the app is solely at the user's own risk.
+
+---
+
+15. CHILDREN'S PRIVACY
 
 Health Supplements Shop is intended for users who are at least 18 years old.
 
 The app is not directed toward children under the age of 13.
 
-We do not knowingly collect personal information from children under 13. If we become aware that such information has been provided, reasonable steps will be taken to facilitate its removal.
+We do not knowingly collect personal information from children under 13.
+
+If we become aware that such information has been provided, reasonable steps will be taken to facilitate its removal.
 
 Parents or guardians who believe a child has submitted personal information may contact us.
 
 ---
 
-15. GOOGLE PLAY COMPLIANCE STATEMENT
+16. GOOGLE PLAY COMPLIANCE STATEMENT
 
 Health Supplements Shop is designed to comply with applicable Google Play Developer Program Policies, including requirements relating to:
 
@@ -279,9 +323,13 @@ Health Supplements Shop is designed to comply with applicable Google Play Develo
 
 Google Play Data Safety disclosures are provided to help users understand how information may be handled through the overall app experience, including information collected and processed by integrated third-party services such as Digistore24.
 
+Health Supplements Shop is not a medical device, healthcare provider, telemedicine service, diagnostic tool, pharmacy, or emergency medical service.
+
+The app is intended solely to provide access to health-related products and informational content offered through third-party platforms.
+
 ---
 
-16. CHANGES TO THIS PRIVACY POLICY
+17. CHANGES TO THIS PRIVACY POLICY
 
 We may update this Privacy Policy from time to time.
 
@@ -293,7 +341,7 @@ Continued use of the app after changes become effective constitutes acceptance o
 
 ---
 
-17. CONTACT INFORMATION
+18. CONTACT INFORMATION
 
 If you have questions, concerns, or requests regarding this Privacy Policy, please contact:
 
@@ -301,61 +349,4 @@ Developer: Kasanvu Emmanuel
 
 Email: keizahemmanuel4@gmail.com
 
-Location: Wakiso, Uganda
-- Secure servers and encryption technologies
-- Limited access to authorized personnel only
-- Protection against unauthorized access or disclosure
-
-However, no method of electronic transmission or storage is completely secure.
-
-7. Log Data
-
-In case of an error in the app, we may collect Log Data through third-party tools. This may include:
-
-- IP address
-- Device name and operating system version
-- App configuration
-- Date and time of use
-- Diagnostic information
-
-This data is used strictly for troubleshooting and service improvement.
-
-8. Cookies
-
-This app does not use cookies directly. However, third-party services or websites accessed through the app may use cookies. Users can manage cookie preferences through their browser settings.
-
-9. Links to Other Sites
-
-This Service may contain links to third-party websites. We are not responsible for the content, privacy policies, or practices of these external sites.
-
-10. Children’s Privacy
-
-Health Supplements Shop does NOT target children under the age of 18.
-
-- We do not knowingly collect personal data from children under 18.
-- If we discover that such data has been provided, it will be deleted immediately.
-- Parents and guardians are encouraged to supervise children’s internet usage.
-
-This app is intended for users aged 18 and above only.
-
-11. Compliance with Google Play Policies
-
-Health Supplements Shop complies with all applicable Google Play Developer Policies, including:
-
-- User Data Policy
-- Health Apps Policy
-- Permissions Policy
-
-We ensure transparency, minimal data collection, and responsible handling of all user information.
-
-12. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Users are advised to review this page periodically for any changes. Continued use of the Service constitutes acceptance of updates.
-
-13. Contact Us
-
-If you have any questions or concerns regarding this Privacy Policy or your data, please contact us:
-
-Email: keizahemmanuel4@gmail.com
-Business Name: Kasanvu Emmanuel
 Location: Wakiso, Uganda
