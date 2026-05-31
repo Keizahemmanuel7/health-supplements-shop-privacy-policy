@@ -1,95 +1,307 @@
-Privacy Policy
+PRIVACY POLICY
+
 Health Supplements Shop
 
-Effective Date: 14 March 2026
+Effective Date: 31 May 2026
 
-Health Supplements Shop is a free application developed by Kasanvu Emmanuel. This Service is provided at no cost and is intended for use “as is.”
+Health Supplements Shop is a mobile application developed by Kasanvu Emmanuel. The app provides users with access to health supplements, wellness products, nutritional products, and related offers available through the Digistore24 platform.
 
-This page is used to inform users regarding our policies with the collection, use, and disclosure of personal information for anyone who decides to use the Service. By using this Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+The Health Supplements Shop app primarily functions as a gateway that allows users to access products and services offered through Digistore24. Most account registration, login, purchases, payment processing, order fulfillment, and customer account management are provided through the Digistore24 website and its authorized service providers.
 
-IMPORTANT HEALTH DISCLAIMER
-Health Supplements Shop is designed to provide access to health supplements and related product information for general informational and shopping purposes only.
+This Privacy Policy explains how information is handled when you use the Health Supplements Shop app and the Digistore24 services accessible through the app.
 
-- The app does NOT provide medical advice, diagnosis, or treatment.
-- Any health-related information available in the app is for informational purposes only and should NOT be relied upon as a substitute for professional medical advice.
-- Always consult a qualified healthcare provider before using any supplement, especially if you have a medical condition, are pregnant, nursing, or taking medication.
-- We do NOT guarantee the effectiveness, safety, or results of any products listed in the app.
-- Use of products is entirely at your own risk.
+By accessing or using Health Supplements Shop, you agree to the practices described in this Privacy Policy.
 
-1. Information Collection and Use
+---
 
-We collect only the minimum amount of personal information necessary to provide our services effectively.
+1. HOW THE HEALTH SUPPLEMENTS SHOP APP OPERATES
 
-Information We Collect:
+Health Supplements Shop serves as an interface that connects users to products and services offered through Digistore24.
 
-- Name: Used to personalize your experience and process orders
-- Email Address: Used for order confirmations, updates, and customer support
-- Shipping Address: Required for delivery of purchased products
-- Phone Number (Optional): Used for delivery coordination or support communication
+When users create accounts, sign in, place orders, make purchases, submit payment information, or communicate with vendors, these activities are generally processed through Digistore24 and its authorized partners.
 
-Health Data:
-We do NOT collect, store, or process sensitive health or medical data such as medical records, diagnoses, or biometric identifiers.
+While Google Play Data Safety disclosures may indicate that certain information is collected through the app experience, much of this information is collected and processed through Digistore24 when users interact with website features available within the app.
 
-2. Information We Do NOT Collect
+---
 
-We respect your privacy and do not collect unnecessary or sensitive personal data, including:
+2. PERMISSIONS USED
 
-- Medical or health records
-- Bank account PINs or full financial credentials
-- National ID or government-issued identification numbers
-- Contacts, SMS, or call logs
-- Camera or microphone data
-- Precise location data
+The app requests only permissions necessary for normal functionality and compliance with Google Play requirements.
 
-3. App Permissions
+Internet Access (android.permission.INTERNET)
 
-Health Supplements Shop only uses permissions that are strictly necessary:
+This permission is required to:
 
-Permissions Used:
+- Load website content
+- Display products and services
+- Connect to Digistore24
+- Enable secure communication
+- Process user requests
+- Access online resources
 
-- Internet Access: To load products, process orders, and connect to services
-- Network State Access: To ensure proper connectivity and performance
+Permissions Not Used
 
-Permissions NOT Used:
+Health Supplements Shop does not request or access:
 
-- Camera access
-- Microphone access
-- Location tracking
-- Contacts access
-- SMS or call log access
-- Background data tracking
+- Camera
+- Microphone
+- Contacts
+- SMS or MMS
+- Call Logs
+- GPS Location
+- Background Location
+- Bluetooth
+- Device Storage or Files
 
-We do not request or access sensitive device permissions.
+The app does not collect personal information through device permissions.
 
-4. How Your Information Is Used
+---
 
-The information collected is used solely for:
+3. INFORMATION COLLECTED THROUGH DIGISTORE24
 
-- Processing and fulfilling orders
-- Providing customer support
-- Sending important updates related to orders or services
-- Improving app performance and user experience
+Health Supplements Shop does not directly collect, store, or maintain customer information on its own servers.
 
-We do NOT:
+However, when users interact with Digistore24 through the app, Digistore24 and its authorized service providers may collect information including:
 
-- Sell your personal data
-- Share your data for advertising purposes without consent
+- Email address
+- User account information
+- Username
+- Full name
+- Billing information
+- Shipping information (where applicable)
+- Purchase history
+- Transaction information
+- Payment information
+- Customer support communications
 
-5. Third-Party Services
+This information may be used for:
 
-The app may use trusted third-party services that may collect limited user data, including:
+- Account registration
+- User authentication
+- Order processing
+- Payment processing
+- Product delivery
+- Customer support
+- Fraud prevention
+- Security monitoring
+- Legal compliance
+- Service improvement
 
+Users should review Digistore24's Privacy Policy for detailed information regarding how personal data is collected, processed, stored, and protected.
+
+---
+
+4. THIRD-PARTY SERVICES
+
+The app may rely on third-party services that may collect information as part of providing their services.
+
+These services may include:
+
+- Digistore24
 - Google Play Services
-- Payment processors (e.g., PayPal, Stripe, Flutterwave)
+- Payment processors
+- Hosting providers
 - Analytics providers
-- External e-commerce platforms
+- Security providers
+- Customer support services
+- Product vendors and merchants
 
-These third parties operate under their own privacy policies, and we encourage users to review them.
+Each third-party service operates under its own Privacy Policy and Terms of Service.
 
-6. Data Storage and Security
+Users are encouraged to review those policies before using such services.
 
-We implement appropriate technical and organizational measures to protect your data:
+---
 
+5. DATA SHARING
+
+Information collected through Digistore24 may be shared with authorized third parties when necessary to:
+
+- Process payments
+- Complete purchases
+- Deliver products
+- Provide customer support
+- Prevent fraud
+- Protect user accounts
+- Comply with legal obligations
+- Maintain platform operations
+
+Health Supplements Shop does not sell personal information to third parties.
+
+---
+
+6. LOG DATA
+
+In the event of an app error or technical issue, diagnostic information may be collected automatically by third-party services.
+
+This information may include:
+
+- IP address
+- Device model
+- Device name
+- Operating system version
+- Browser information
+- App configuration
+- Date and time of use
+- Technical diagnostic data
+
+This information is used to improve reliability, security, troubleshooting, and overall service performance.
+
+---
+
+7. COOKIES AND TRACKING TECHNOLOGIES
+
+Health Supplements Shop does not directly use cookies.
+
+However, websites and services accessed through the app, including Digistore24, may use cookies and similar technologies to:
+
+- Remember user preferences
+- Maintain login sessions
+- Improve user experience
+- Analyze website performance
+- Provide security features
+
+Users may manage cookie settings through their browser preferences where applicable.
+
+---
+
+8. SERVICE PROVIDERS
+
+We may rely on third-party companies and individuals to:
+
+- Operate services
+- Process transactions
+- Deliver products
+- Provide customer support
+- Monitor performance
+- Analyze usage
+- Improve security
+- Maintain infrastructure
+
+These providers may have access to information necessary to perform their services and are expected to protect such information appropriately.
+
+---
+
+9. DATA SECURITY
+
+Reasonable administrative, technical, and organizational measures are used by service providers to help protect information transmitted through the app and associated services.
+
+However, no method of electronic transmission or storage can be guaranteed to be completely secure.
+
+Users provide information at their own discretion and risk.
+
+---
+
+10. EXTERNAL LINKS DISCLAIMER
+
+The app may contain links to third-party websites and services.
+
+We are not responsible for:
+
+- Third-party website content
+- Third-party privacy practices
+- External services
+- Data collection activities performed by third parties
+
+Users should review the Privacy Policies of any external websites they visit.
+
+---
+
+11. DATA RETENTION
+
+Health Supplements Shop does not directly retain personal information.
+
+Information collected through Digistore24 is retained according to Digistore24's policies, vendor requirements, legal obligations, and applicable regulations.
+
+---
+
+12. DATA DELETION
+
+Users may request either of the following:
+
+Account Deletion
+
+Users may request deletion of their account and associated personal information where applicable.
+
+Partial Data Deletion
+
+Users may request deletion of specific personal information without deleting their entire account, where permitted.
+
+Data deletion requests can be submitted through the following page:
+
+https://keizahemmanuel7.github.io/health-supplements-shop-data-deletion/
+
+Or by contacting:
+
+Email: keizahemmanuel4@gmail.com
+
+Requests relating to information processed by Digistore24 may also need to be directed to Digistore24 or the relevant vendor responsible for processing that information.
+
+For additional information regarding available deletion options, users should review the Data Deletion Request page listed above.
+
+---
+
+13. USER RIGHTS AND CHOICES
+
+Depending on applicable laws, users may have rights to:
+
+- Access personal information
+- Correct inaccurate information
+- Request deletion of information
+- Restrict certain processing activities
+- Object to processing
+- Withdraw consent where applicable
+
+Requests relating to information processed through Digistore24 should be directed to the relevant service provider where appropriate.
+
+---
+
+14. CHILDREN'S PRIVACY
+
+Health Supplements Shop is intended for users who are at least 18 years old.
+
+The app is not directed toward children under the age of 13.
+
+We do not knowingly collect personal information from children under 13. If we become aware that such information has been provided, reasonable steps will be taken to facilitate its removal.
+
+Parents or guardians who believe a child has submitted personal information may contact us.
+
+---
+
+15. GOOGLE PLAY COMPLIANCE STATEMENT
+
+Health Supplements Shop is designed to comply with applicable Google Play Developer Program Policies, including requirements relating to:
+
+- User privacy
+- Data transparency
+- Permission disclosure
+- Data security
+- User protection
+
+Google Play Data Safety disclosures are provided to help users understand how information may be handled through the overall app experience, including information collected and processed by integrated third-party services such as Digistore24.
+
+---
+
+16. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time.
+
+Any updates will be posted within the app, through the app listing, or by other appropriate means.
+
+Users are encouraged to review this Privacy Policy periodically.
+
+Continued use of the app after changes become effective constitutes acceptance of the updated Privacy Policy.
+
+---
+
+17. CONTACT INFORMATION
+
+If you have questions, concerns, or requests regarding this Privacy Policy, please contact:
+
+Developer: Kasanvu Emmanuel
+
+Email: keizahemmanuel4@gmail.com
+
+Location: Wakiso, Uganda
 - Secure servers and encryption technologies
 - Limited access to authorized personnel only
 - Protection against unauthorized access or disclosure
